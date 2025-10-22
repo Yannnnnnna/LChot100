@@ -11,6 +11,10 @@
       <sourceFolder url="file://$MODULE_DIR$/matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/linkTable" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/solution" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/binary_tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/graph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trace_back" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Binary_Search" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
