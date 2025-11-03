@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Trace_back" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Binary_Search" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Heap" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
